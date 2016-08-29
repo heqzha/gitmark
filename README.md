@@ -7,3 +7,6 @@
 
 ### August 25, 2016
 - [Parallel Algorithm for Matrix Multiplication](http://www.cse.buffalo.edu/faculty/miller/Courses/CSE633/Ortega-Fall-2012-CSE633.pdf) 
+
+### August 29, 2016
+- [download;jsessionid=21DA20474AD4E10348EAE33991F40191](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=21DA20474AD4E10348EAE33991F40191?doi=10.1.1.147.8295&rep=rep1&type=pdf) 
