@@ -10,3 +10,6 @@
 
 ### August 29, 2016
 - [download;jsessionid=21DA20474AD4E10348EAE33991F40191](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=21DA20474AD4E10348EAE33991F40191?doi=10.1.1.147.8295&rep=rep1&type=pdf) 
+
+### August 30, 2016
+- [ALS 在 Spark MLlib 中的实现 | 数盟社区](http://dataunion.org/16856.html) 
