@@ -13,3 +13,4 @@
 
 ### August 30, 2016
 - [ALS 在 Spark MLlib 中的实现 | 数盟社区](http://dataunion.org/16856.html) 
+- [Building a Movie Recommendation Service with Apache Spark & Flask - Part 1 | Codementor](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1) 
