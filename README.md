@@ -15,3 +15,6 @@
 - [ALS 在 Spark MLlib 中的实现 | 数盟社区](http://dataunion.org/16856.html) 
 - [Building a Movie Recommendation Service with Apache Spark & Flask - Part 1 | Codementor](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1) 
 - [Building a Movie Recommendation Service with Apache Spark & Flask - Part 2 | Codementor](https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2) 
+
+### September 1, 2016
+- [Abstractivate: Iterators in Scala: glory and danger](http://blog.jessitron.com/2012/09/iterators-in-scala-glory-and-danger.html) 
