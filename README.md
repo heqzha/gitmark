@@ -21,3 +21,4 @@
 
 ### September 2, 2016
 - [Scala编程的蛋糕模式和依赖注入 | 鸟窝](http://colobu.com/2015/07/28/Scala-Cake-pattern-and-Dependency-Injection/) 
+- [Introduction | Spark编程指南 - 简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/) 
