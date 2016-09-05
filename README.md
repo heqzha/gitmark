@@ -25,3 +25,4 @@
 
 ### September 5, 2016
 - [Solving a Spark Invalid signature file digest for Manifest main attributes error](https://gist.github.com/hkhamm/88923412992d284580ea) 
+- [Spark 提交任务时，报: Invalid signature file digest for Manifest main attributes - dai451954706的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/dai451954706/article/details/50086295) 
