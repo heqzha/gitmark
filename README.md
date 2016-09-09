@@ -29,3 +29,6 @@
 
 ### September 6, 2016
 - [Spark as a Service之JobServer初测 | Debugo](http://debugo.com/spark-jobserver/) 
+
+### September 9, 2016
+- [How To Sample Rows in SQL 273X Faster](https://www.periscopedata.com/blog/how-to-sample-rows-in-sql-273x-faster.html) 
