@@ -32,3 +32,6 @@
 
 ### September 9, 2016
 - [How To Sample Rows in SQL 273X Faster](https://www.periscopedata.com/blog/how-to-sample-rows-in-sql-273x-faster.html) 
+
+### September 14, 2016
+- [Building a Recommendation Engine with Spark ML on Amazon EMR using Zeppelin - AWS Big Data Blog](https://blogs.aws.amazon.com/bigdata/post/Tx6J5RM20WPG5V/Building-a-Recommendation-Engine-with-Spark-ML-on-Amazon-EMR-using-Zeppelin) 
