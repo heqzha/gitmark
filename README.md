@@ -36,3 +36,6 @@
 ### September 14, 2016
 - [Building a Recommendation Engine with Spark ML on Amazon EMR using Zeppelin - AWS Big Data Blog](https://blogs.aws.amazon.com/bigdata/post/Tx6J5RM20WPG5V/Building-a-Recommendation-Engine-with-Spark-ML-on-Amazon-EMR-using-Zeppelin) 
 - [Building a Recommendation Engine with Spark | PACKT Books](https://www.packtpub.com/books/content/building-recommendation-engine-spark) 
+
+### September 18, 2016
+- [When a userID is predicted when it is not already trained (all userID data is used on validation group and none of them to train), prediction is nan, so RegressionEvaluator returns Nan. To solve this we must change RegressionEvaluator by MiValidacion in CrossValidator](https://gist.github.com/pvalienteverde/e9e610665fe7592d6dbbb2988e83b394) 
