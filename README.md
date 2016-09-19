@@ -39,3 +39,6 @@
 
 ### September 18, 2016
 - [When a userID is predicted when it is not already trained (all userID data is used on validation group and none of them to train), prediction is nan, so RegressionEvaluator returns Nan. To solve this we must change RegressionEvaluator by MiValidacion in CrossValidator](https://gist.github.com/pvalienteverde/e9e610665fe7592d6dbbb2988e83b394) 
+
+### September 19, 2016
+- [Oh My Star - Best way to keep your Github Stars on the Mac App Store](https://itunes.apple.com/us/app/oh-my-star/id788446112?l=en&mt=12) 
