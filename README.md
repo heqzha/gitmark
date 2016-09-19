@@ -43,3 +43,4 @@
 ### September 19, 2016
 - [Oh My Star - Best way to keep your Github Stars on the Mac App Store](https://itunes.apple.com/us/app/oh-my-star/id788446112?l=en&mt=12) 
 - [Introduction | Spark 运维实战](https://taoistwar.gitbooks.io/spark-operationand-maintenance-management/content/) 
+- [【Spark】Spark的Standalone模式安装部署 | Jason's Techblog](http://blog.jasonding.top/2015/07/07/Spark/%E3%80%90Spark%E3%80%91Spark%E7%9A%84Standalone%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/) 
