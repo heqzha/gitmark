@@ -45,3 +45,6 @@
 - [Introduction | Spark 运维实战](https://taoistwar.gitbooks.io/spark-operationand-maintenance-management/content/) 
 - [【Spark】Spark的Standalone模式安装部署 | Jason's Techblog](http://blog.jasonding.top/2015/07/07/Spark/%E3%80%90Spark%E3%80%91Spark%E7%9A%84Standalone%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/) 
 - [在Mac OSX Yosemite上安装Hadoop - 简书](http://www.jianshu.com/p/3aebdba32363) 
+
+### September 28, 2016
+- [Spark排错与优化 - - 博客频道 - CSDN.NET](http://blog.csdn.net/lsshlsw/article/details/49155087) 
