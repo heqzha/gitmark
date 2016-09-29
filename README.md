@@ -51,3 +51,4 @@
 
 ### September 29, 2016
 - [Introduction · GitBook](https://goswagger.io/) 
+- [跟着实例学习ZooKeeper的用法： 分布式锁 | 并发编程网 – ifeve.com](http://ifeve.com/zookeeper-lock/) 
