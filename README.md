@@ -55,3 +55,6 @@
 - [zookeeper分布式锁的实现 - - ITeye技术网站](http://graduter.iteye.com/blog/2024190) 
 - [zookeeper分布式锁的实现 - - ITeye技术网站](http://graduter.iteye.com/blog/2024190) 
 - [Apache Curator –](http://curator.apache.org/index.html) 
+
+### October 10, 2016
+- [使用ZooKeeper实现Java跨JVM的分布式锁(读写锁) - 大新博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/nimasike/article/details/51581755) 
