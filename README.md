@@ -58,3 +58,6 @@
 
 ### October 10, 2016
 - [使用ZooKeeper实现Java跨JVM的分布式锁(读写锁) - 大新博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/nimasike/article/details/51581755) 
+
+### October 11, 2016
+- [Spark性能优化指南——基础篇 -](http://tech.meituan.com/spark-tuning-basic.html) 
