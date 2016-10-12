@@ -62,3 +62,6 @@
 ### October 11, 2016
 - [Spark性能优化指南——基础篇 -](http://tech.meituan.com/spark-tuning-basic.html) 
 - [Spark性能优化指南——高级篇 -](http://tech.meituan.com/spark-tuning-pro.html) 
+
+### October 12, 2016
+- [Spark性能优化——和shuffle搏斗 | 四火的唠叨](http://www.raychase.net/3788) 
