@@ -72,3 +72,4 @@
 - [spark 1.6.0 core源码分析2 master启动流程-IT大道](http://www.itdadao.com/articles/c15a93459p0.html) 
 - [5 things we hate about Spark | InfoWorld](http://www.infoworld.com/article/3004460/application-development/5-things-we-hate-about-spark.html) 
 - [AMPLab’s co-creator on where big data is headed, and why Spark is so big – > S C A L E – Medium](https://medium.com/s-c-a-l-e/amplab-s-co-creator-on-where-big-data-is-headed-and-why-spark-is-so-big-f0c0da2f7c0f#.gqz5aos8r) 
+- [Building Online Communities: Keras.io](https://medium.freecodecamp.com/building-online-communities-keras-io-be7256abe9c5#.s4l9s9usf) 
