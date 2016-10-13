@@ -75,3 +75,4 @@
 - [Building Online Communities: Keras.io](https://medium.freecodecamp.com/building-online-communities-keras-io-be7256abe9c5#.s4l9s9usf) 
 - [Spark在shuffle数据的时候遇到的问题](http://m.blog.csdn.net/article/details?id=50848392) 
 - [Spark优化及总结 - 今日文摘](http://doc00.com/doc/1001009sh) 
+- [Spark Basics: mapPartitions() Example](http://apachesparkbook.blogspot.com/2015/11/mappartition-example.html) 
