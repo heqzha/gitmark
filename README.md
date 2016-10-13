@@ -70,3 +70,4 @@
 ### October 13, 2016
 - [[SPARK-13906] Spark driver hangs when slave is started or stopped (org.apache.spark.rpc.RpcTimeoutException). - ASF JIRA](https://issues.apache.org/jira/browse/SPARK-13906) 
 - [spark 1.6.0 core源码分析2 master启动流程-IT大道](http://www.itdadao.com/articles/c15a93459p0.html) 
+- [5 things we hate about Spark | InfoWorld](http://www.infoworld.com/article/3004460/application-development/5-things-we-hate-about-spark.html) 
