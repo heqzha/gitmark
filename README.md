@@ -71,3 +71,4 @@
 - [[SPARK-13906] Spark driver hangs when slave is started or stopped (org.apache.spark.rpc.RpcTimeoutException). - ASF JIRA](https://issues.apache.org/jira/browse/SPARK-13906) 
 - [spark 1.6.0 core源码分析2 master启动流程-IT大道](http://www.itdadao.com/articles/c15a93459p0.html) 
 - [5 things we hate about Spark | InfoWorld](http://www.infoworld.com/article/3004460/application-development/5-things-we-hate-about-spark.html) 
+- [AMPLab’s co-creator on where big data is headed, and why Spark is so big – > S C A L E – Medium](https://medium.com/s-c-a-l-e/amplab-s-co-creator-on-where-big-data-is-headed-and-why-spark-is-so-big-f0c0da2f7c0f#.gqz5aos8r) 
