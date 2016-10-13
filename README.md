@@ -66,3 +66,6 @@
 ### October 12, 2016
 - [Spark性能优化——和shuffle搏斗 | 四火的唠叨](http://www.raychase.net/3788) 
 - [Improving Sort Performance in Apache Spark: It’s a Double - Cloudera Engineering Blog](http://blog.cloudera.com/blog/2015/01/improving-sort-performance-in-apache-spark-its-a-double/) 
+
+### October 13, 2016
+- [[SPARK-13906] Spark driver hangs when slave is started or stopped (org.apache.spark.rpc.RpcTimeoutException). - ASF JIRA](https://issues.apache.org/jira/browse/SPARK-13906) 
