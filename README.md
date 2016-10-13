@@ -73,3 +73,4 @@
 - [5 things we hate about Spark | InfoWorld](http://www.infoworld.com/article/3004460/application-development/5-things-we-hate-about-spark.html) 
 - [AMPLab’s co-creator on where big data is headed, and why Spark is so big – > S C A L E – Medium](https://medium.com/s-c-a-l-e/amplab-s-co-creator-on-where-big-data-is-headed-and-why-spark-is-so-big-f0c0da2f7c0f#.gqz5aos8r) 
 - [Building Online Communities: Keras.io](https://medium.freecodecamp.com/building-online-communities-keras-io-be7256abe9c5#.s4l9s9usf) 
+- [Spark在shuffle数据的时候遇到的问题](http://m.blog.csdn.net/article/details?id=50848392) 
