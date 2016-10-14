@@ -84,3 +84,4 @@
 - [Spark的性能调优](http://www.infoq.com/cn/news/2016/01/Spark-performance-tuning) 
 - [Changing Spark’s default java serialization to Kryo | O. Girardot](https://ogirardot.wordpress.com/2015/01/09/changing-sparks-default-java-serialization-to-kryo/) 
 - [Tuning - Spark 2.0.1 Documentation](http://spark.apache.org/docs/latest/tuning.html) 
+- [Spark 调优 - 技术翻译 - 开源中国社区](https://www.oschina.net/translate/spark-tuning?print) 
