@@ -79,3 +79,6 @@
 - [Spark配置参数 - JavaChen Blog](http://blog.javachen.com/2015/06/07/spark-configuration.html) 
 - [Spark在GrowingIO数据无埋点全量采集场景下的实践](http://www.infoq.com/cn/articles/spark-in-growingio-data) 
 - [Spark多数据源在GrowingIO的实践_增长秘笈 - GrowingIO 官方博客](https://blog.growingio.com/posts/spark-duo-yuan-shu-ju-jie-gou-zai-growingio-de-ying-yong) 
+
+### October 14, 2016
+- [Spark的性能调优](http://www.infoq.com/cn/news/2016/01/Spark-performance-tuning) 
