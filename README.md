@@ -86,3 +86,6 @@
 - [Tuning - Spark 2.0.1 Documentation](http://spark.apache.org/docs/latest/tuning.html) 
 - [Spark 调优 - 技术翻译 - 开源中国社区](https://www.oschina.net/translate/spark-tuning?print) 
 - [Join Two DataFrames without a Duplicated Column — Databricks Documentation](http://docs.databricks.com/spark/latest/faq/join-two-dataframes-duplicated-column.html) 
+
+### October 24, 2016
+- [『 Spark 』5. 这些年，你不能错过的 spark 学习资源 - 简书](http://www.jianshu.com/p/59c54b46577b) 
