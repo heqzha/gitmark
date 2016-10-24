@@ -90,3 +90,4 @@
 ### October 24, 2016
 - [『 Spark 』5. 这些年，你不能错过的 spark 学习资源 - 简书](http://www.jianshu.com/p/59c54b46577b) 
 - [scala - (Why) do we need to call cache or persist on a RDD - Stack Overflow](http://stackoverflow.com/questions/28981359/why-do-we-need-to-call-cache-or-persist-on-a-rdd) 
+- [python - How to turn off INFO logging in PySpark? - Stack Overflow](http://stackoverflow.com/questions/25193488/how-to-turn-off-info-logging-in-pyspark) 
