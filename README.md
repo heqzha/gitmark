@@ -92,3 +92,6 @@
 - [scala - (Why) do we need to call cache or persist on a RDD - Stack Overflow](http://stackoverflow.com/questions/28981359/why-do-we-need-to-call-cache-or-persist-on-a-rdd) 
 - [python - How to turn off INFO logging in PySpark? - Stack Overflow](http://stackoverflow.com/questions/25193488/how-to-turn-off-info-logging-in-pyspark) 
 - [Getting out of memory on java 1.8 spark 1.6.0 · Issue #483 · spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver/issues/483) 
+
+### October 25, 2016
+- [How can I access an existing SparkContext? · Issue #167 · spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver/issues/167) 
