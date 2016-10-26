@@ -95,3 +95,6 @@
 
 ### October 25, 2016
 - [How can I access an existing SparkContext? · Issue #167 · spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver/issues/167) 
+
+### October 26, 2016
+- [Unable to log debugging messages · Issue #82 · spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver/issues/82) 
