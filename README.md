@@ -102,3 +102,4 @@
 ### October 27, 2016
 - [[Spark-User] Cached Parquet file paths problem](https://qnalist.com/questions/6410233/cached-parquet-file-paths-problem) 
 - [Kafka快速入门 | 鸟窝](http://colobu.com/2014/08/06/kafka-quickstart/) 
+- [Spark编程指南 - 简体中文版 · GitBook](https://www.gitbook.com/book/aiyanbo/spark-programming-guide-zh-cn/details) 
