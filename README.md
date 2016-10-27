@@ -98,3 +98,6 @@
 
 ### October 26, 2016
 - [Unable to log debugging messages · Issue #82 · spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver/issues/82) 
+
+### October 27, 2016
+- [[Spark-User] Cached Parquet file paths problem](https://qnalist.com/questions/6410233/cached-parquet-file-paths-problem) 
