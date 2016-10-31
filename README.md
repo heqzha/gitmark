@@ -107,3 +107,4 @@
 ### October 31, 2016
 - [Building a recommendation engine with AWS Data Pipeline, Elastic MapReduce and Spark – Medium](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.shg8sv2xa) 
 - [Everything You Can Do With Windows 10’s New Bash Shell](http://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/) 
+- [Beginner’s Guide To Neural Networks – The Startup – Medium](https://medium.com/swlh/beginners-guide-to-neural-networks-c98f496eec64#.gxk6sdq6l) 
