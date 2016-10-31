@@ -103,3 +103,6 @@
 - [[Spark-User] Cached Parquet file paths problem](https://qnalist.com/questions/6410233/cached-parquet-file-paths-problem) 
 - [Kafka快速入门 | 鸟窝](http://colobu.com/2014/08/06/kafka-quickstart/) 
 - [Spark编程指南 - 简体中文版 · GitBook](https://www.gitbook.com/book/aiyanbo/spark-programming-guide-zh-cn/details) 
+
+### October 31, 2016
+- [Building a recommendation engine with AWS Data Pipeline, Elastic MapReduce and Spark – Medium](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.shg8sv2xa) 
