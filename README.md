@@ -117,3 +117,4 @@
 - [Get Started · An Introduction to Elm](https://guide.elm-lang.org/get_started.html) 
 - [那些 Functional Programming 教我的事](http://www.slideshare.net/ihower/fp-osdc2012v2) 
 - [A Practitioner's Guide to Net Promoter Score (NPS) | Sachin Rekhi](http://www.sachinrekhi.com/a-practitioners-guide-to-net-promoter-score-nps) 
+- [Designing Your Product’s Continuous Feedback Loop – Medium](https://medium.com/@sachinrekhi/designing-your-products-continuous-feedback-loop-4a7bb31141fe#.c61p0z3wl) 
