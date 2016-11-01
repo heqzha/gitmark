@@ -109,3 +109,6 @@
 - [Everything You Can Do With Windows 10’s New Bash Shell](http://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/) 
 - [Beginner’s Guide To Neural Networks – The Startup – Medium](https://medium.com/swlh/beginners-guide-to-neural-networks-c98f496eec64#.gxk6sdq6l) 
 - [Everything You Need to Know About Artificial Neural Networks – Technology, Invention, App, and More – Medium](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1#.sn66w0r4v) 
+
+### November 1, 2016
+- [Effective Writing For Your UI: Things to Avoid](https://uxplanet.org/effective-writing-for-your-ui-things-to-avoid-f6084e94e009#.kd69hgkhc) 
