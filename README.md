@@ -113,3 +113,4 @@
 ### November 1, 2016
 - [Effective Writing For Your UI: Things to Avoid](https://uxplanet.org/effective-writing-for-your-ui-things-to-avoid-f6084e94e009#.kd69hgkhc) 
 - [Elm 簡介 · Rhadow's Tech Note](https://rhadow.github.io/2016/04/23/elm-introduction/) 
+- [So You Want to be a Functional Programmer (Part 1) – Medium](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.ahbqpogj4) 
