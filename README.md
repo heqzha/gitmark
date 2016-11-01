@@ -118,3 +118,4 @@
 - [那些 Functional Programming 教我的事](http://www.slideshare.net/ihower/fp-osdc2012v2) 
 - [A Practitioner's Guide to Net Promoter Score (NPS) | Sachin Rekhi](http://www.sachinrekhi.com/a-practitioners-guide-to-net-promoter-score-nps) 
 - [Designing Your Product’s Continuous Feedback Loop – Medium](https://medium.com/@sachinrekhi/designing-your-products-continuous-feedback-loop-4a7bb31141fe#.c61p0z3wl) 
+- [iOS 学习资料整理{非常有用,强烈推荐} - 简书](http://www.jianshu.com/p/5765e9dba738) 
