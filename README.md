@@ -115,3 +115,4 @@
 - [Elm 簡介 · Rhadow's Tech Note](https://rhadow.github.io/2016/04/23/elm-introduction/) 
 - [So You Want to be a Functional Programmer (Part 1) – Medium](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.ahbqpogj4) 
 - [Get Started · An Introduction to Elm](https://guide.elm-lang.org/get_started.html) 
+- [那些 Functional Programming 教我的事](http://www.slideshare.net/ihower/fp-osdc2012v2) 
