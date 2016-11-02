@@ -120,3 +120,6 @@
 - [Designing Your Product’s Continuous Feedback Loop – Medium](https://medium.com/@sachinrekhi/designing-your-products-continuous-feedback-loop-4a7bb31141fe#.c61p0z3wl) 
 - [iOS 学习资料整理{非常有用,强烈推荐} - 简书](http://www.jianshu.com/p/5765e9dba738) 
 - [Carthage的安装和使用 - 简书](http://www.jianshu.com/p/a734be794019) 
+
+### November 2, 2016
+- [【Mac OS 教學】用 Xcode 輕鬆製作簡單實用的 iOS APP！(上) | Dr.愛瘋 APP Navi](http://app.yipee.cc/57210/%E3%80%90mac-os-%E6%95%99%E5%AD%B8%E3%80%91%E7%94%A8-xcode-%E8%BC%95%E9%AC%86%E8%A3%BD%E4%BD%9C%E7%B0%A1%E5%96%AE%E5%AF%A6%E7%94%A8%E7%9A%84-ios-app%EF%BC%81%E4%B8%8A) 
