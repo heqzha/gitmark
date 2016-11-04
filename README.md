@@ -123,3 +123,6 @@
 
 ### November 2, 2016
 - [【Mac OS 教學】用 Xcode 輕鬆製作簡單實用的 iOS APP！(上) | Dr.愛瘋 APP Navi](http://app.yipee.cc/57210/%E3%80%90mac-os-%E6%95%99%E5%AD%B8%E3%80%91%E7%94%A8-xcode-%E8%BC%95%E9%AC%86%E8%A3%BD%E4%BD%9C%E7%B0%A1%E5%96%AE%E5%AF%A6%E7%94%A8%E7%9A%84-ios-app%EF%BC%81%E4%B8%8A) 
+
+### November 4, 2016
+- [VS Code 搭建 Go 开发IDE | WonSikin's Blog](http://www.wonsikin.me/2016/06/06/VS-Code-%E6%90%AD%E5%BB%BA-Go-%E5%BC%80%E5%8F%91IDE/) 
