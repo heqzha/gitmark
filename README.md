@@ -126,3 +126,6 @@
 
 ### November 4, 2016
 - [VS Code 搭建 Go 开发IDE | WonSikin's Blog](http://www.wonsikin.me/2016/06/06/VS-Code-%E6%90%AD%E5%BB%BA-Go-%E5%BC%80%E5%8F%91IDE/) 
+
+### November 5, 2016
+- [史上最全Vim快捷键键位图 -- 入门到进阶 • cenalulu's Tech Blog](http://cenalulu.github.io/linux/all-vim-cheatsheat/) 
