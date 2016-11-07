@@ -132,3 +132,4 @@
 
 ### November 7, 2016
 - [osx - lose vim colorscheme in tmux mode - Stack Overflow](http://stackoverflow.com/questions/10158508/lose-vim-colorscheme-in-tmux-mode) 
+- [Problems copying text on Mac OS Sierra · Issue #543 · tmux/tmux](https://github.com/tmux/tmux/issues/543) 
