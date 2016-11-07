@@ -129,3 +129,6 @@
 
 ### November 5, 2016
 - [史上最全Vim快捷键键位图 -- 入门到进阶 • cenalulu's Tech Blog](http://cenalulu.github.io/linux/all-vim-cheatsheat/) 
+
+### November 7, 2016
+- [osx - lose vim colorscheme in tmux mode - Stack Overflow](http://stackoverflow.com/questions/10158508/lose-vim-colorscheme-in-tmux-mode) 
