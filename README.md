@@ -137,3 +137,4 @@
 ### November 8, 2016
 - [Create a new branch with git and manage branches · Kunena/Kunena-Forum Wiki](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) 
 - [微服务实战（一）：微服务架构的优势与不足 - DockOne.io](http://dockone.io/article/394) 
+- [微服务实战（二）：使用API Gateway - DockOne.io](http://dockone.io/article/482) 
