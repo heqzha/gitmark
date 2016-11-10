@@ -139,3 +139,6 @@
 - [微服务实战（一）：微服务架构的优势与不足 - DockOne.io](http://dockone.io/article/394) 
 - [微服务实战（二）：使用API Gateway - DockOne.io](http://dockone.io/article/482) 
 - [Protobuf 编码过程及规则 | shanshanpt](http://shanshanpt.github.io/2016/09/10/protobuf-encode.html) 
+
+### November 10, 2016
+- [bikkelbroeders/TouchBarDemoApp: Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.](https://github.com/bikkelbroeders/TouchBarDemoApp) 
