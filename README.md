@@ -142,3 +142,6 @@
 
 ### November 10, 2016
 - [bikkelbroeders/TouchBarDemoApp: Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.](https://github.com/bikkelbroeders/TouchBarDemoApp) 
+
+### November 11, 2016
+- [Git: getting changes from another branch - Stack Overflow](https://stackoverflow.com/questions/3124601/git-getting-changes-from-another-branch) 
