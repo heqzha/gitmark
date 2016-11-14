@@ -148,3 +148,4 @@
 
 ### November 14, 2016
 - [A New Kind of Instant Messaging](https://tox.chat/) 
+- [Binary diff](http://www.daemonology.net/bsdiff/) 
