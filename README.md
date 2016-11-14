@@ -145,3 +145,6 @@
 
 ### November 11, 2016
 - [Git: getting changes from another branch - Stack Overflow](https://stackoverflow.com/questions/3124601/git-getting-changes-from-another-branch) 
+
+### November 14, 2016
+- [A New Kind of Instant Messaging](https://tox.chat/) 
