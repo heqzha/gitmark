@@ -155,3 +155,4 @@
 - [Home page of Evan Miller](http://www.evanmiller.org/) 
 - [Ranking Items With Star Ratings: An Approximate Bayesian Approach](http://www.evanmiller.org/ranking-items-with-star-ratings.html) 
 - [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html) 
+- [Quick, Draw!](https://quickdraw.withgoogle.com/) 
