@@ -153,3 +153,4 @@
 ### November 18, 2016
 - [Gamasutra: Lars Doucet's Blog - Fixing Steam's User Rating Charts](http://www.gamasutra.com/blogs/LarsDoucet/20141006/227162/Fixing_Steams_User_Rating_Charts.php) 
 - [Home page of Evan Miller](http://www.evanmiller.org/) 
+- [Ranking Items With Star Ratings: An Approximate Bayesian Approach](http://www.evanmiller.org/ranking-items-with-star-ratings.html) 
