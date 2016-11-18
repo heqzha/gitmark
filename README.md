@@ -149,3 +149,6 @@
 ### November 14, 2016
 - [A New Kind of Instant Messaging](https://tox.chat/) 
 - [Binary diff](http://www.daemonology.net/bsdiff/) 
+
+### November 18, 2016
+- [Gamasutra: Lars Doucet's Blog - Fixing Steam's User Rating Charts](http://www.gamasutra.com/blogs/LarsDoucet/20141006/227162/Fixing_Steams_User_Rating_Charts.php) 
