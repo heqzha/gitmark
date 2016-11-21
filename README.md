@@ -161,3 +161,4 @@
 - [Category: Spring Cloud - skaka的博客](http://skaka.me/blog/categories/spring-cloud/) 
 - [深层学习为何要“Deep”（上） - YJango的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/22888385) 
 - [学习与深层原理 - 超有机体 - 知乎专栏](https://zhuanlan.zhihu.com/p/23640341) 
+- [如何简单形象又有趣地讲解神经网络是什么？ - 计算机 - 知乎](https://www.zhihu.com/question/22553761) 
