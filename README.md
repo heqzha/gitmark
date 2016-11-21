@@ -156,3 +156,6 @@
 - [Ranking Items With Star Ratings: An Approximate Bayesian Approach](http://www.evanmiller.org/ranking-items-with-star-ratings.html) 
 - [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html) 
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) 
+
+### November 21, 2016
+- [Category: Spring Cloud - skaka的博客](http://skaka.me/blog/categories/spring-cloud/) 
