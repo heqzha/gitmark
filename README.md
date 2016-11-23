@@ -166,3 +166,4 @@
 ### November 23, 2016
 - [Calculus on Computational Graphs: Backpropagation -- colah's blog](https://colah.github.io/posts/2015-08-Backprop/) 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/) 
+- [Vagrant by HashiCorp](https://www.vagrantup.com/) 
