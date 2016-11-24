@@ -170,3 +170,4 @@
 
 ### November 24, 2016
 - [在 Mac OS X 中安裝 MongoDB 資料庫 - G. T. Wang](https://blog.gtwang.org/mac-os-x/mac-os-x-install-mongodb-database/) 
+- [MongoDB 基礎入門教學：MongoDB Shell 篇 - G. T. Wang](https://blog.gtwang.org/programming/getting-started-with-mongodb-shell-1/) 
