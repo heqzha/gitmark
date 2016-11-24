@@ -167,3 +167,6 @@
 - [Calculus on Computational Graphs: Backpropagation -- colah's blog](https://colah.github.io/posts/2015-08-Backprop/) 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/) 
 - [Vagrant by HashiCorp](https://www.vagrantup.com/) 
+
+### November 24, 2016
+- [在 Mac OS X 中安裝 MongoDB 資料庫 - G. T. Wang](https://blog.gtwang.org/mac-os-x/mac-os-x-install-mongodb-database/) 
