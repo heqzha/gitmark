@@ -174,3 +174,6 @@
 
 ### November 25, 2016
 - [MongoDB查询（2）——数组查询[六] - 超越昨天的自己！ - ITeye技术网站](http://eksliang.iteye.com/blog/2177292) 
+
+### November 28, 2016
+- [8天学通MongoDB——第四天 索引操作 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/archive/2012/02/29/2372699.html) 
