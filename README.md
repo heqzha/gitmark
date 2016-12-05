@@ -181,3 +181,4 @@
 ### December 5, 2016
 - [Configuration File Options — MongoDB Manual 3.4](https://docs.mongodb.com/manual/reference/configuration-options/) 
 - [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/) 
+- [db.createUser() — MongoDB Manual 3.4](https://docs.mongodb.com/manual/reference/method/db.createUser/#db.createUser) 
