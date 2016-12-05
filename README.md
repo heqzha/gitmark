@@ -177,3 +177,6 @@
 
 ### November 28, 2016
 - [8天学通MongoDB——第四天 索引操作 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/archive/2012/02/29/2372699.html) 
+
+### December 5, 2016
+- [Configuration File Options — MongoDB Manual 3.4](https://docs.mongodb.com/manual/reference/configuration-options/) 
