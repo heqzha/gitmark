@@ -182,3 +182,6 @@
 - [Configuration File Options — MongoDB Manual 3.4](https://docs.mongodb.com/manual/reference/configuration-options/) 
 - [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/) 
 - [db.createUser() — MongoDB Manual 3.4](https://docs.mongodb.com/manual/reference/method/db.createUser/#db.createUser) 
+
+### December 6, 2016
+- [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.31797&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
