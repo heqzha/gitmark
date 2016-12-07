@@ -189,3 +189,4 @@
 ### December 7, 2016
 - [使用wukong全文搜索引擎 | Tony Bai](http://tonybai.com/2016/12/06/an-intro-to-wukong-fulltext-search-engine/) 
 - [Elasticsearch中文搜索环境搭建 - 简书](http://www.jianshu.com/p/f169e70364d4) 
+- [使用 Elasticsearch 实现博客站内搜索 | JerryQu 的小站](https://imququ.com/post/elasticsearch.html#simple_thread) 
