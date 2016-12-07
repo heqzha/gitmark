@@ -188,3 +188,4 @@
 
 ### December 7, 2016
 - [使用wukong全文搜索引擎 | Tony Bai](http://tonybai.com/2016/12/06/an-intro-to-wukong-fulltext-search-engine/) 
+- [Elasticsearch中文搜索环境搭建 - 简书](http://www.jianshu.com/p/f169e70364d4) 
