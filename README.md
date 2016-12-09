@@ -197,3 +197,4 @@
 ### December 9, 2016
 - [https://airvisual.com/earth](https://airvisual.com/earth) 
 - [用npm-run自动化任务 - 新闻 - SegmentFault](https://segmentfault.com/a/1190000000344102) 
+- [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2 – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.d76dgitc3) 
