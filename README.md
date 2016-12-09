@@ -193,3 +193,6 @@
 
 ### December 8, 2016
 - [How to generate a random string of a fixed length in golang? - Stack Overflow](https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-golang) 
+
+### December 9, 2016
+- [https://airvisual.com/earth](https://airvisual.com/earth) 
