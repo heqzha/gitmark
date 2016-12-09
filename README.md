@@ -196,3 +196,4 @@
 
 ### December 9, 2016
 - [https://airvisual.com/earth](https://airvisual.com/earth) 
+- [用npm-run自动化任务 - 新闻 - SegmentFault](https://segmentfault.com/a/1190000000344102) 
