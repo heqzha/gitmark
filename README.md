@@ -201,3 +201,4 @@
 
 ### December 12, 2016
 - [学习CSS布局](http://zh.learnlayout.com/) 
+- [Go and a Package Focused Design](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/) 
