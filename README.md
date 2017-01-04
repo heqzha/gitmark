@@ -209,3 +209,6 @@
 
 ### December 26, 2016
 - [什么是卷积神经网络 - 简书](http://www.jianshu.com/p/d87b900f083e) 
+
+### January 5, 2017
+- [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.jkbnhthii) 
