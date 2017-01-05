@@ -213,3 +213,4 @@
 ### January 5, 2017
 - [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.jkbnhthii) 
 - [消息系统设计与实现「上篇」 - 简书](http://www.jianshu.com/p/f4d7827821f1) 
+- [消息系统设计与实现「下篇」 - 简书](http://www.jianshu.com/p/6bf8166b291c) 
