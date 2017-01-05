@@ -215,3 +215,4 @@
 - [消息系统设计与实现「上篇」 - 简书](http://www.jianshu.com/p/f4d7827821f1) 
 - [消息系统设计与实现「下篇」 - 简书](http://www.jianshu.com/p/6bf8166b291c) 
 - [常见开源消息系统 - 互联网技术和架构](https://blog.eood.cn/mq) 
+- [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff#.drgjunl6x) 
