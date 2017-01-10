@@ -217,3 +217,6 @@
 - [常见开源消息系统 - 互联网技术和架构](https://blog.eood.cn/mq) 
 - [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff#.drgjunl6x) 
 - [Touch-friendly Drag and Drop - mobiForge](https://mobiforge.com/design-development/touch-friendly-drag-and-drop) 
+
+### January 10, 2017
+- [Google Open Source Blog: Grumpy: Go running Python!](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html) 
