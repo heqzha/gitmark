@@ -220,3 +220,6 @@
 
 ### January 10, 2017
 - [Google Open Source Blog: Grumpy: Go running Python!](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html) 
+
+### January 11, 2017
+- [Semantic Versioning 2.0.0 - Semantic Versioning](http://semver.org/) 
