@@ -228,3 +228,4 @@
 - [Coding a Deep Neural Network to Steer a Car: Step By Step – Udacity Inc – Medium](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pigexzgpa) 
 - [End-to-End Deep Learning for Self-Driving Cars | Parallel Forall](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) 
 - [LibHunt - Find The Software You Need](https://www.libhunt.com/) 
+- [Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
