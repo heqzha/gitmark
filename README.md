@@ -223,3 +223,6 @@
 
 ### January 11, 2017
 - [Semantic Versioning 2.0.0 - Semantic Versioning](http://semver.org/) 
+
+### January 12, 2017
+- [Coding a Deep Neural Network to Steer a Car: Step By Step – Udacity Inc – Medium](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pigexzgpa) 
