@@ -226,3 +226,4 @@
 
 ### January 12, 2017
 - [Coding a Deep Neural Network to Steer a Car: Step By Step – Udacity Inc – Medium](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pigexzgpa) 
+- [End-to-End Deep Learning for Self-Driving Cars | Parallel Forall](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) 
