@@ -229,3 +229,4 @@
 - [End-to-End Deep Learning for Self-Driving Cars | Parallel Forall](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/) 
 - [LibHunt - Find The Software You Need](https://www.libhunt.com/) 
 - [Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+- [[译] 理解 LSTM 网络 - 简书](http://www.jianshu.com/p/9dc9f41f0b29) 
