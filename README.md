@@ -233,3 +233,4 @@
 
 ### January 13, 2017
 - [UFLDL Tutorial - Ufldl](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
+- [Hyper™](https://hyper.is/) 
