@@ -234,3 +234,6 @@
 ### January 13, 2017
 - [UFLDL Tutorial - Ufldl](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
 - [Hyper™](https://hyper.is/) 
+
+### January 16, 2017
+- [iOS安全系列之二：HTTPS进阶 | jaminzzhang](http://oncenote.com/2015/09/16/Security-2-HTTPS2/) 
