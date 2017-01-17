@@ -242,3 +242,4 @@
 - [A Course in Machine Learning](http://ciml.info/) 
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.sg0k5xpke) 
 - [Top 10 Machine Learning Articles for the Past Month (v.July)](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.u8c8qbhbd) 
+- [Bayes rule](https://www.eecs.qmul.ac.uk/~norman/BBNs/Bayes_rule.htm) 
