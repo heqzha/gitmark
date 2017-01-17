@@ -237,3 +237,6 @@
 
 ### January 16, 2017
 - [iOS安全系列之二：HTTPS进阶 | jaminzzhang](http://oncenote.com/2015/09/16/Security-2-HTTPS2/) 
+
+### January 17, 2017
+- [A Course in Machine Learning](http://ciml.info/) 
