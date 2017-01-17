@@ -240,3 +240,4 @@
 
 ### January 17, 2017
 - [A Course in Machine Learning](http://ciml.info/) 
+- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.sg0k5xpke) 
