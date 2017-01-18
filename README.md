@@ -244,3 +244,6 @@
 - [Top 10 Machine Learning Articles for the Past Month (v.July)](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.u8c8qbhbd) 
 - [Bayes rule](https://www.eecs.qmul.ac.uk/~norman/BBNs/Bayes_rule.htm) 
 - [在Windows上玩TensorFlow(一)——安装Docker - 博客频道 - CSDN.NET](http://blog.csdn.net/neilron/article/details/51387161) 
+
+### January 18, 2017
+- [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) 
