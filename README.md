@@ -247,3 +247,6 @@
 
 ### January 18, 2017
 - [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) 
+
+### January 19, 2017
+- [Rufus - 轻松创建USB启动盘](https://rufus.akeo.ie/?locale=zh_CN) 
