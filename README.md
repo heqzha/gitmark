@@ -253,3 +253,6 @@
 
 ### January 22, 2017
 - [What is Kubernetes? - Kubernetes](https://kubernetes.io/docs/whatisk8s/) 
+
+### January 24, 2017
+- [產生文章摘要的縮圖 – Medium](https://medium.com/@DcardLab/%E7%94%A2%E7%94%9F%E6%96%87%E7%AB%A0%E6%91%98%E8%A6%81%E7%9A%84%E7%B8%AE%E5%9C%96-31da755cd4cd#.2e3umx5m5) 
