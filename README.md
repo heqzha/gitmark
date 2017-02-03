@@ -256,3 +256,6 @@
 
 ### January 24, 2017
 - [產生文章摘要的縮圖 – Medium](https://medium.com/@DcardLab/%E7%94%A2%E7%94%9F%E6%96%87%E7%AB%A0%E6%91%98%E8%A6%81%E7%9A%84%E7%B8%AE%E5%9C%96-31da755cd4cd#.2e3umx5m5) 
+
+### February 3, 2017
+- [迪菲-赫尔曼密钥交换 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%BF%AA%E8%8F%B2-%E8%B5%AB%E7%88%BE%E6%9B%BC%E5%AF%86%E9%91%B0%E4%BA%A4%E6%8F%9B) 
