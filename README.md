@@ -268,3 +268,6 @@
 
 ### February 6, 2017
 - [Open source UML tools for MAC OS X - OSSD](https://opensourcesoftwaredirectory.com/App-development/UML-tools/MAC_OS_X) 
+
+### February 7, 2017
+- [Docker RUN vs CMD vs ENTRYPOINT](http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/) 
