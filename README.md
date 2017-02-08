@@ -276,3 +276,4 @@
 
 ### February 8, 2017
 - [Ansible is Simple IT Automation](https://www.ansible.com/) 
+- [SaltStack 与 Ansible 选择？ - puppet - 知乎](https://www.zhihu.com/question/22707761) 
