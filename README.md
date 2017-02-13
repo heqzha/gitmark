@@ -279,3 +279,6 @@
 - [SaltStack 与 Ansible 选择？ - puppet - 知乎](https://www.zhihu.com/question/22707761) 
 - [Ansible Documentation](https://docs.ansible.com/) 
 - [Intercepting the App Store's Traffic on iOS | In Security](https://nabla-c0d3.github.io/blog/2013/08/20/intercepting-the-app-stores-traffic-on-ios/) 
+
+### February 13, 2017
+- [insertion - Python MySQLdb issues (TypeError: %d format: a number is required, not str) - Stack Overflow](https://stackoverflow.com/questions/5785154/python-mysqldb-issues-typeerror-d-format-a-number-is-required-not-str) 
