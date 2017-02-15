@@ -283,3 +283,6 @@
 ### February 13, 2017
 - [insertion - Python MySQLdb issues (TypeError: %d format: a number is required, not str) - Stack Overflow](https://stackoverflow.com/questions/5785154/python-mysqldb-issues-typeerror-d-format-a-number-is-required-not-str) 
 - [如何评价知乎的回答排序算法？ - 知乎社区 - 知乎](https://www.zhihu.com/question/26933554) 
+
+### February 15, 2017
+- [Install rabbitmq via docker in OS-X (Example)](https://coderwall.com/p/uqp34w/install-rabbitmq-via-docker-in-os-x) 
