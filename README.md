@@ -286,3 +286,4 @@
 
 ### February 15, 2017
 - [Install rabbitmq via docker in OS-X (Example)](https://coderwall.com/p/uqp34w/install-rabbitmq-via-docker-in-os-x) 
+- [Metabase](http://www.metabase.com/) 
