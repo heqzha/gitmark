@@ -287,3 +287,6 @@
 ### February 15, 2017
 - [Install rabbitmq via docker in OS-X (Example)](https://coderwall.com/p/uqp34w/install-rabbitmq-via-docker-in-os-x) 
 - [Metabase](http://www.metabase.com/) 
+
+### February 17, 2017
+- [go - Golang - Copy Exec output to Log - Stack Overflow](https://stackoverflow.com/questions/25190971/golang-copy-exec-output-to-log) 
