@@ -290,3 +290,6 @@
 
 ### February 17, 2017
 - [go - Golang - Copy Exec output to Log - Stack Overflow](https://stackoverflow.com/questions/25190971/golang-copy-exec-output-to-log) 
+
+### February 22, 2017
+- [Docker cause MAC OS crash when using with Bluestack - Docker for Mac - Docker Forums](https://forums.docker.com/t/docker-cause-mac-os-crash-when-using-with-bluestack/19217) 
