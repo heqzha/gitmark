@@ -294,3 +294,6 @@
 ### February 22, 2017
 - [Docker cause MAC OS crash when using with Bluestack - Docker for Mac - Docker Forums](https://forums.docker.com/t/docker-cause-mac-os-crash-when-using-with-bluestack/19217) 
 - [GopherAcademy - Conferences, Training, and Community](https://blog.gopheracademy.com/advent-2015/2d-games/) 
+
+### February 24, 2017
+- [How to stop Python parse_qs from parsing single values into lists? - Stack Overflow](https://stackoverflow.com/questions/1024143/how-to-stop-python-parse-qs-from-parsing-single-values-into-lists) 
