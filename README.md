@@ -297,3 +297,6 @@
 
 ### February 24, 2017
 - [How to stop Python parse_qs from parsing single values into lists? - Stack Overflow](https://stackoverflow.com/questions/1024143/how-to-stop-python-parse-qs-from-parsing-single-values-into-lists) 
+
+### February 27, 2017
+- [How to INSERT If Row Does Not Exist (UPSERT) in MySQL | Chartio](https://chartio.com/resources/tutorials/how-to-insert-if-row-does-not-exist-upsert-in-mysql/) 
