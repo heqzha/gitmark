@@ -300,3 +300,6 @@
 
 ### February 27, 2017
 - [How to INSERT If Row Does Not Exist (UPSERT) in MySQL | Chartio](https://chartio.com/resources/tutorials/how-to-insert-if-row-does-not-exist-upsert-in-mysql/) 
+
+### March 2, 2017
+- [几种无用但有趣的排序算法 - 知乎专栏](https://zhuanlan.zhihu.com/p/20644113) 
