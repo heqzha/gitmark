@@ -306,3 +306,6 @@
 
 ### March 4, 2017
 - [Make Games - Pixel Art Tutorial](http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial) 
+
+### March 6, 2017
+- [sql - Multiple Updates in MySQL - Stack Overflow](https://stackoverflow.com/questions/3432/multiple-updates-in-mysql) 
