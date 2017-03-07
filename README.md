@@ -312,3 +312,4 @@
 
 ### March 7, 2017
 - [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4#utf8-to-utf8mb4) 
+- [MySQL utf8mb4, Errors when saving Emojis - Stack Overflow](https://stackoverflow.com/questions/35125933/mysql-utf8mb4-errors-when-saving-emojis) 
