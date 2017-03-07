@@ -309,3 +309,6 @@
 
 ### March 6, 2017
 - [sql - Multiple Updates in MySQL - Stack Overflow](https://stackoverflow.com/questions/3432/multiple-updates-in-mysql) 
+
+### March 7, 2017
+- [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4#utf8-to-utf8mb4) 
