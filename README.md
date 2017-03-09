@@ -316,3 +316,6 @@
 
 ### March 9, 2017
 - [Home - Cloud Native Computing Foundation](https://www.cncf.io/) 
+
+### March 10, 2017
+- [Creating an RPG Base – final boss blues](http://finalbossblues.com/creating-an-rpg-base/) 
