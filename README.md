@@ -322,3 +322,6 @@
 
 ### March 13, 2017
 - [在 CentOS 7 下安装配置 shadowsocks - 早起搬砖 morning.work](http://morning.work/page/2015-12/install-shadowsocks-on-centos-7.html) 
+
+### March 14, 2017
+- [Buck: A fast build tool](https://buckbuild.com/) 
