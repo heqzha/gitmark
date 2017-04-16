@@ -328,3 +328,6 @@
 
 ### March 28, 2017
 - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/) 
+
+### April 16, 2017
+- [机器之心 | 《Deep Learning》中文印前版开放下载，让我们向译者致敬](http://www.jiqizhixin.com/article/2647) 
