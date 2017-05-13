@@ -331,3 +331,6 @@
 
 ### April 16, 2017
 - [机器之心 | 《Deep Learning》中文印前版开放下载，让我们向译者致敬](http://www.jiqizhixin.com/article/2647) 
+
+### May 13, 2017
+- [Apache kafka 工作原理介绍](https://www.ibm.com/developerworks/cn/opensource/os-cn-kafka/) 
