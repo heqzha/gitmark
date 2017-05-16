@@ -337,3 +337,4 @@
 
 ### May 16, 2017
 - [Python+MySQL "not all arguments converted during string formatting" | [H]ard|Forum](https://hardforum.com/threads/python-mysql-not-all-arguments-converted-during-string-formatting.1367039/) 
+- [为您的应用或游戏选择类别 - Play 管理中心帮助](https://support.google.com/googleplay/android-developer/answer/113475?hl=zh-Hans) 
