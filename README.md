@@ -334,3 +334,6 @@
 
 ### May 13, 2017
 - [Apache kafka 工作原理介绍](https://www.ibm.com/developerworks/cn/opensource/os-cn-kafka/) 
+
+### May 16, 2017
+- [Python+MySQL "not all arguments converted during string formatting" | [H]ard|Forum](https://hardforum.com/threads/python-mysql-not-all-arguments-converted-during-string-formatting.1367039/) 
