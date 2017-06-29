@@ -341,3 +341,6 @@
 
 ### May 22, 2017
 - [Supported devices - Google Play Help](https://support.google.com/googleplay/answer/1727131?hl=en-GB) 
+
+### June 29, 2017
+- [Synchronization in a Distributed System | 8th Light](https://8thlight.com/blog/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html) 
