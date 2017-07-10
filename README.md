@@ -344,3 +344,6 @@
 
 ### June 29, 2017
 - [Synchronization in a Distributed System | 8th Light](https://8thlight.com/blog/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html) 
+
+### July 10, 2017
+- [View Counting at Reddit – Upvoted](https://redditblog.com/2017/05/24/view-counting-at-reddit/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website) 
